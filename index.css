@@ -1,0 +1,201 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #eff2f6;
+    overflow-x: hidden;
+}
+
+table {
+    width: 100vw;
+    text-align: center;
+
+}
+
+.cabeçario {
+    background-color: #10502f;
+    text-align: center;
+    color: #ffffff;
+    box-shadow: 0px 2px 4px #888;
+    border-collapse: collapse;
+    font-size: 0, 75px;
+
+}
+
+#LOGO td {
+    height: 48px;
+    padding: 4px;
+}
+
+td {
+    height: 50px;
+    width: 104px;
+    color: #9db7a9
+}
+
+.nav-conteudo-lateral {
+    width: 100px;
+}
+
+.nav-destacado {
+
+    border-bottom: 3px solid #ffffff;
+    color: #
+}
+
+.nav-destacado:hover {
+    background-color: #0e482a;
+    cursor: pointer;
+}
+
+.tabela-brasileirão {
+    border: 1px solid #e9eaeb;
+    border-top: none;
+    border-bottom: none;
+    width: 40vw;
+    margin-left: 30%;
+    font-size: 0.75em;
+    border-collapse: collapse;
+    background-color: #ffffff;
+}
+
+
+
+#tabela-brasileirão-cabeçario {
+    padding: 15px;
+    padding-left: 20px;
+    background-color: #f1f3f4;
+    text-align: left;
+    color: #70758d;
+}
+
+#ano {
+    color: #4285f4;
+    font-weight: 600pxs;
+}
+
+a.link {
+    color: #70758d;
+    text-decoration: none;
+
+}
+
+a.visited {
+    color: #70758d;
+    text-decoration: none;
+
+
+}
+
+.tabela-brasileirão th {
+    border-top: 1px solid #dadec0;
+    font-weight: 100;
+    color: #70758d;
+    padding: 4px;
+    height: 20px;
+
+
+
+}
+
+.tabela-brasileirão td {
+    border-top: 1px solid #dadec0;
+    font-weight: 100;
+    color: #000000;
+    padding: 4px;
+    height: 15px;
+    font-size: 1.2em;
+}
+
+.tabela-brasileirão img {
+    width: 25px;
+}
+
+.tabela-coluna-borda {
+    border-top: none !important;
+}
+
+.titulo-clube {
+    width: 35%;
+    text-align: left;
+    text-decoration: none;
+
+}
+
+.ultima-cincos {
+    width: 20%;
+}
+
+.ultima-cincos img {
+    width: 15px;
+}
+
+.borda-azul {
+    border-left: 3px solid #4285f4;
+}
+
+.borda-laranja {
+    border-left: 3px solid #fa7b17;
+
+}
+
+.borda-verde {
+    border-left: 3px solid #34a853;
+}
+
+.borda-vermelha {
+    border-left: 3px solid #ea4335;
+}
+
+.legenda table {
+    width: 40vw;
+    margin: 5pix;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1 px solid #e9eaeb;
+    border-radius: 3px;
+    padding: 15px;
+    text-align: left;
+    background-color: #f8f9faSSSSS;
+}
+
+.legenda th {
+    border-top: none;
+    font: 1.1em;
+    color: #000000;
+    font-weight: 700;
+    height: 3px;
+}
+
+.legenda img {
+    width: 20px;
+
+}
+
+.legenda td {
+    border-top: none;
+    font-size: 1em;
+    height: 3px;
+
+}
+
+a:link {
+    text-decoration: none;
+    color: #9db7a9;
+
+}
+
+a :hover {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:link {
+
+    text-decoration: none;
+    color: #000000;
+}
